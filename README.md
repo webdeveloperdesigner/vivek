@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **exciting blockchain projects**
  
- 🌱 I’m currently learning **Solidity, Web3, and advanced JavaScript**
+ 🌱 I’m currently learning **Solidity, Web3, and Webd**
 
  💬 Ask me about **HTML, CSS, JS, React, Node.js, Blockchain, or anything [here](https://github.com/webdeveloperdesigner/webdeveloperdesigner/issues)**
 
