@@ -51,10 +51,15 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/webdeveloperdesigner/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/webdeveloperdesigner/webdeveloperdesigner/output/dist/github-snake.svg" />
   
-  <br/><br/><br/>
+  <!-- Optional: Add other styles -->
+  <br>
+  <img alt="snake dark mode" src="https://raw.githubusercontent.com/webdeveloperdesigner/webdeveloperdesigner/output/dist/github-snake-dark.svg" />
+  <br>
+  <img alt="snake gif ocean" src="https://raw.githubusercontent.com/webdeveloperdesigner/webdeveloperdesigner/output/dist/ocean.gif" />
 </div>
+
 
 <hr/>
 
