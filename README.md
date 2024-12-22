@@ -37,7 +37,12 @@
 <h2 align="center">⚒️ Skills & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,solidity,metamask,github,bootstrap,firebase" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,solidity,ipfs,vscode,wordpress,github,bootstrap,firebase" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Blockchain-Technology-blue" alt="Blockchain Badge" />
+  <img src="https://img.shields.io/badge/WordPress-CMS-green" alt="WordPress Badge" />
 </div>
 
 <br/>
