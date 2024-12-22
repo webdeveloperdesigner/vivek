@@ -51,22 +51,27 @@
 <div align="center">
   <h2>🌟 My Contributions 🌟</h2>
   <br>
+
+  <!-- GitHub Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webdeveloperdesigner&theme=github_dark" alt="GitHub Contributions Overview" width="75%" />
   
-  <!-- Dynamic GitHub Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webdeveloperdesigner&theme=github_dark" alt="GitHub Contributions Overview" width="75%"/>
+  <br/><br/>
+
+  <!-- GitHub Contribution Streak -->
+  <img src="https://streak-stats.demolab.com?user=webdeveloperdesigner&theme=react&hide_border=true&border_radius=10" alt="GitHub Contribution Streak" width="75%" />
+  
+  <br/><br/>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=webdeveloperdesigner&show_icons=true&theme=react&hide_border=true&border_radius=10" alt="GitHub Stats" width="75%" />
   
   <br/><br/>
   
-  <!-- GitHub Calendar -->
-  <img src="https://github-readme-calendar.vercel.app/api?username=webdeveloperdesigner&theme=dark&hide_border=true&border_radius=10" alt="GitHub Contribution Calendar" width="75%"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdeveloperdesigner&layout=compact&theme=react&hide_border=true&border_radius=10" alt="Top Languages" width="75%" />
 
-  <br/><br/>
-
-  <!-- Custom GitHub Contributions Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=webdeveloperdesigner&theme=react-dark&hide_border=true&radius=10" alt="GitHub Contributions Graph" width="75%"/>
-
-  <br/><br/>
 </div>
+
 
 
 
