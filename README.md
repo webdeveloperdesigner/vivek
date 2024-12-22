@@ -56,20 +56,12 @@
 
   <br/><br/>
 
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=webdeveloperdesigner&theme=highcontrast&hide_border=true&border_radius=10" alt="GitHub Streak Stats" width="90%" style="border-radius: 15px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);" />
-  
-  <br/><br/>
 
   <!-- GitHub Stats with Animated Icons -->
   <img src="https://github-readme-stats.vercel.app/api?username=webdeveloperdesigner&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" width="90%" style="border-radius: 15px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);" />
   
   <br/><br/>
   
-  <!-- GitHub Top Languages with Hover Effects -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdeveloperdesigner&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" width="90%" style="border-radius: 15px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);" />
-  
-  <br/><br/>
 
   <!-- Alternative Contributions Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=webdeveloperdesigner&theme=github&hide_border=true&radius=10" alt="GitHub Contribution Graph" width="90%" style="border-radius: 15px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);" />
@@ -92,15 +84,9 @@
 
   <br/><br/>
 
-  <!-- GitHub Contributions Calendar -->
-  <h3>📅 Contribution Calendar</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=webdeveloperdesigner&theme=github&hide_border=true&radius=10&title_color=36f&bg_color=ffffff" alt="GitHub Contributions Calendar" width="90%" style="border-radius: 15px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);" />
-  
-  <br/><br/>
 
-  <!-- Latest Repos -->
-  <h3>🛠️ My Latest Repositories</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdeveloperdesigner&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Repositories" width="90%" style="border-radius: 15px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);" />
+
+ 
 </div>
 
 
