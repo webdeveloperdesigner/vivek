@@ -94,29 +94,31 @@
 
 <hr/>
 
-<h2 align="center">⚡ My GitHub Stats ⚡</h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img width="390" src="https://streak-stats.demolab.com?user=webdeveloperdesigner&theme=react&border_radius=10" alt="streak stats" style="border: 2px solid #ddd; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); border-radius: 10px;" />
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=webdeveloperdesigner&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" style="border: 2px solid #ddd; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); border-radius: 10px;" />
-  </div>
+  <img width="390" src="https://streak-stats.demolab.com?user=webdeveloperdesigner&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=webdeveloperdesigner&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdeveloperdesigner&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" style="border: 2px solid #ddd; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); border-radius: 10px;" />
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdeveloperdesigner&hide=HTML&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
+
 <br/><br/>
 
-<hr style="border-top: 2px solid #ff5722;" />
+<hr/>
 
 <br/>
 
 <div align="center">
-  <h2>🚀 About TechCentrals</h2>
-  <p style="font-size: 1.1em; max-width: 800px; margin: 0 auto; line-height: 1.6;">
-    At <strong>TechCentrals</strong>, we deliver the latest technology news, insights, and breakthroughs. Whether it's artificial intelligence, blockchain advancements, or cutting-edge innovations, TechCentrals keeps you informed about the tech trends that matter.
+  <h2>About TechCentrals</h2>
+  <p>
+    At <strong>TechCentrals</strong>, we are passionate about keeping you up to date with the latest trends in technology, from AI to blockchain, and everything in between. We provide you with insightful news, reviews, and the cutting-edge innovations shaping the future.
+  </p>
+  <p>
+    As an intern at TechCentrals, I have the opportunity to work with <strong>WordPress</strong> to design and manage dynamic content, keeping the site user-friendly and engaging. This experience allows me to apply my skills in web development while contributing to a platform that aims to make technology accessible to all.
   </p>
   <a href="https://techcentrals.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-TechCentrals.com-FF5722?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Visit TechCentrals" style="border-radius: 25px; margin-top: 20px;"/>
+    <img src="https://img.shields.io/badge/Visit-TechCentrals.com-FF5722?style=for-the-badge&logo=internetexplorer&logoColor=white" />
   </a>
 </div>
 
