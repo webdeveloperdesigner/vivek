@@ -49,16 +49,25 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🌟 My Contributions 🌟</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/webdeveloperdesigner/webdeveloperdesigner/output/github-contribution-grid-snake.svg" />
   
-  <!-- Optional: Add other styles -->
-  <br>
-  <img alt="snake dark mode" src="https://raw.githubusercontent.com/webdeveloperdesigner/webdeveloperdesigner/output/dist/github-snake-dark.svg" />
-  <br>
-  <img alt="snake gif ocean" src="https://raw.githubusercontent.com/webdeveloperdesigner/webdeveloperdesigner/output/dist/ocean.gif" />
+  <!-- Dynamic GitHub Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webdeveloperdesigner&theme=github_dark" alt="GitHub Contributions Overview" width="75%"/>
+  
+  <br/><br/>
+  
+  <!-- GitHub Calendar -->
+  <img src="https://github-readme-calendar.vercel.app/api?username=webdeveloperdesigner&theme=dark&hide_border=true&border_radius=10" alt="GitHub Contribution Calendar" width="75%"/>
+
+  <br/><br/>
+
+  <!-- Custom GitHub Contributions Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=webdeveloperdesigner&theme=react-dark&hide_border=true&radius=10" alt="GitHub Contributions Graph" width="75%"/>
+
+  <br/><br/>
 </div>
+
 
 
 <hr/>
