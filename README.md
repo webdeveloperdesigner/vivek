@@ -49,41 +49,76 @@
 <hr/>
 
 <div align="center">
-  <h2 style="font-family: 'Arial', sans-serif; font-size: 36px; color: #4CAF50;">🌟 My GitHub Contributions 🌟</h2>
+  <h1>✨ Welcome to My GitHub Profile ✨</h1>
+
+  <h2>🌟 My Contributions 🌟</h2>
   <br>
 
   <!-- GitHub Profile Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webdeveloperdesigner&theme=radical" alt="GitHub Profile Overview" width="90%" style="border-radius: 20px; box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-  
-  <style>
-    img:hover {
-      transform: scale(1.05);
-      box-shadow: 0px 12px 50px rgba(0, 0, 0, 0.2);
-    }
-  </style>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webdeveloperdesigner&theme=radical" alt="GitHub Profile Overview" width="90%" style="border-radius: 15px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);" />
+  <br><br>
 
-  <br/><br/>
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=webdeveloperdesigner&theme=highcontrast&hide_border=true&border_radius=20" alt="GitHub Streak Stats" width="90%" style="border-radius: 20px; box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-
-  <br/><br/>
+  <!-- Animated GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=webdeveloperdesigner&theme=highcontrast&hide_border=true&border_radius=10" alt="GitHub Streak Stats" width="90%" style="border-radius: 15px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);" />
+  <br><br>
 
   <!-- GitHub Stats with Animated Icons -->
-  <img src="https://github-readme-stats.vercel.app/api?username=webdeveloperdesigner&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Stats" width="90%" style="border-radius: 20px; box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+  <img src="https://github-readme-stats.vercel.app/api?username=webdeveloperdesigner&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" width="90%" style="border-radius: 15px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);" />
+  <br><br>
 
-  <br/><br/>
-  
   <!-- GitHub Top Languages with Hover Effects -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdeveloperdesigner&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" alt="Top Languages" width="90%" style="border-radius: 20px; box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-
-  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdeveloperdesigner&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" width="90%" style="border-radius: 15px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);" />
+  <br><br>
 
   <!-- Alternative Contributions Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=webdeveloperdesigner&theme=github&hide_border=true&radius=10" alt="GitHub Contribution Graph" width="90%" style="border-radius: 20px; box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=webdeveloperdesigner&theme=github&hide_border=true&radius=10" alt="GitHub Contribution Graph" width="90%" style="border-radius: 15px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);" />
+  <br><br>
 
-  <br/><br/>
+  <!-- Animated Progress Bar for Achievements -->
+  <h2>🎯 Achievements & Progress 🎯</h2>
+  <p>🏆 I have contributed to several open-source projects and continuously improved my skills.</p>
+  <div style="width: 90%; background-color: #f3f4f6; border-radius: 8px; height: 30px;">
+    <div style="width: 80%; background-color: #4caf50; height: 100%; border-radius: 8px;"></div>
+  </div>
+  <p>🚀 Completed 80% of my learning goals in blockchain and web development this year.</p>
+  <br><br>
+
+  <!-- Blockchain & WordPress Badges -->
+  <h2>🛠️ Skills & Technologies 🛠️</h2>
+  <div>
+    <img src="https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=ethereum" />
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  </div>
+  <br><br>
+
+  <!-- "Contact Me" Section -->
+  <h2>📬 Let's Connect!</h2>
+  <p>Have questions or want to collaborate? Reach out to me!</p>
+  <div>
+    <a href="mailto:vivekcsed22@gmail.com">
+      <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://www.linkedin.com/in/vivek-vns/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://vivekcsedportfolio.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+    </a>
+  </div>
+  <br><br>
+
+  <!-- Creative TechCentrals Badge -->
+  <h2>🚀 Visit TechCentrals</h2>
+  <a href="https://www.techcentrals.com" target="_blank">
+    <img src="https://img.shields.io/badge/TechCentrals.com-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br><br>
 </div>
+
 
 
 
