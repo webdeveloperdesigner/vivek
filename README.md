@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **exciting blockchain projects**
  
- 🌱 I’m currently learning **Solidity, Web3, and advanced JavaScript**
+ 🌱 I’m currently learning **Solidity, Web3, and webd**
 
  💬 Ask me about **HTML, CSS, JS, React, Node.js, Blockchain, or anything [here](https://github.com/webdeveloperdesigner/webdeveloperdesigner/issues)**
 
@@ -51,7 +51,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/webdeveloperdesigner/webdeveloperdesigner/output/dist/github-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/webdeveloperdesigner/vivek/output/github-contribution-grid-snake.svg" />
   
   <!-- Optional: Add other styles -->
   <br>
