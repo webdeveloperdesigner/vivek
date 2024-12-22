@@ -15,7 +15,7 @@
 <div align="center">
   <p>🔭 Currently working on **exciting blockchain projects**</p>
   <p>🌱 Learning **Solidity, Web3, and web development**</p>
-  <p>💬 Ask me about **HTML, CSS, JS, React, Node.js, Blockchain**, or anything [here](https://github.com/webdeveloperdesigner/webdeveloperdesigner/issues)</p>
+  <p>💬 Ask me about **HTML, CSS, JS, React, Node.js, Blockchain, or anything [here](https://github.com/webdeveloperdesigner/webdeveloperdesigner/issues)**</p>
   <p>⚡ Fun fact: **I believe in learning something new every day!**</p>
 </div>
 
@@ -104,4 +104,4 @@
   </a>
 </div>
 
-<br/> 
+<br/>
