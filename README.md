@@ -49,12 +49,43 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2 style="font-family: 'Arial', sans-serif; font-size: 36px; color: #4CAF50;">🌟 My GitHub Contributions 🌟</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/webdeveloperdesigner/webdeveloperdesigner/output/github-contribution-grid-snake.svg" />
+
+  <!-- GitHub Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webdeveloperdesigner&theme=radical" alt="GitHub Profile Overview" width="90%" style="border-radius: 20px; box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
   
-  <br/><br/><br/>
+  <style>
+    img:hover {
+      transform: scale(1.05);
+      box-shadow: 0px 12px 50px rgba(0, 0, 0, 0.2);
+    }
+  </style>
+
+  <br/><br/>
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=webdeveloperdesigner&theme=highcontrast&hide_border=true&border_radius=20" alt="GitHub Streak Stats" width="90%" style="border-radius: 20px; box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+
+  <br/><br/>
+
+  <!-- GitHub Stats with Animated Icons -->
+  <img src="https://github-readme-stats.vercel.app/api?username=webdeveloperdesigner&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Stats" width="90%" style="border-radius: 20px; box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+
+  <br/><br/>
+  
+  <!-- GitHub Top Languages with Hover Effects -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdeveloperdesigner&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" alt="Top Languages" width="90%" style="border-radius: 20px; box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+
+  <br/><br/>
+
+  <!-- Alternative Contributions Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=webdeveloperdesigner&theme=github&hide_border=true&radius=10" alt="GitHub Contribution Graph" width="90%" style="border-radius: 20px; box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+
+  <br/><br/>
 </div>
+
+
 
 <hr/>
 
