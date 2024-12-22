@@ -101,7 +101,7 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=webdeveloperdesigner&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <!-- Adjusted to show all languages -->
-  <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdeveloperdesigner&layout=compact&theme=react&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdeveloperdesigner&layout=compact&theme=react&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
 
 <br/><br/>
