@@ -97,7 +97,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=webdeveloperdesigner&theme=react&border_radius=10" alt="streak stats"/>
+    <img src="https://streak-stats.demolab.com?user=https%3A%2F%2Fgithub.com%2Fwebdeveloperdesigner&theme=dark&hide_border=true" alt="GitHub Streak" />
+<!--   <img width=390 src="https://streak-stats.demolab.com?user=webdeveloperdesigner&theme=react&border_radius=10" alt="streak stats"/> -->
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=webdeveloperdesigner&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <!-- Adjusted to show all languages -->
