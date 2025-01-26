@@ -97,12 +97,13 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    <img src="https://streak-stats.demolab.com?user=https%3A%2F%2Fgithub.com%2Fwebdeveloperdesigner&theme=dark&hide_border=true" alt="GitHub Streak" />
+<img src = "https://nirzak-streak-stats.vercel.app?user=webdeveloperdesigner&theme=dark&border_radius=10&card_width=390"/>
 <!--   <img width=390 src="https://streak-stats.demolab.com?user=webdeveloperdesigner&theme=react&border_radius=10" alt="streak stats"/> -->
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=webdeveloperdesigner&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=450 src="https://github-readme-stats.vercel.app/api?username=webdeveloperdesigner&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <!-- Adjusted to show all languages -->
-  <img width="60%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdeveloperdesigner&layout=compact&theme=react&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+<!--     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdeveloperdesigner&langs_count=8) -->
+  <img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdeveloperdesigner&layout=compact&theme=react&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
 
 <br/><br/>
